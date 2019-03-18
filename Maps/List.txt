@@ -1,0 +1,8 @@
+/Maps/Hub.kpbin
+/Maps/SMB11.kpbin
+/Maps/SMB12.kpbin
+/Maps/WarpZone.kpbin
+/Maps/SMB13.kpbin
+/Maps/SMB14.kpbin
+/Maps/WarpZone2.kpbin
+/Maps/SMB15.kpbin
