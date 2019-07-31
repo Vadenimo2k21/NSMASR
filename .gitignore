@@ -35,8 +35,8 @@ mj2d01_marioFont_64_IA4.brfnt
 EU/HomeButton2/
 EU/save_banner/
 HomeButton2/
-Layout/
-!Layout/MapHUD.arc
+Layout/*
+!Layout/controllerInformation
 ankou.arc
 backWall.arc
 bakubaku.arc
