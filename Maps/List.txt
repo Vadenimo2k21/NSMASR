@@ -1,5 +1,5 @@
-/Maps/Hub.kpbin
 /Maps/SMB11.kpbin
+/Maps/Hub.kpbin
 /Maps/SMB12.kpbin
 /Maps/WarpZone.kpbin
 /Maps/SMB13.kpbin
