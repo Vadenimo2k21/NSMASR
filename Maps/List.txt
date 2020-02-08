@@ -7,3 +7,4 @@
 /Maps/WarpZone2.kpbin
 /Maps/SMB15.kpbin
 /Maps/SMB16.kpbin
+/Maps/SMBLL1.kpbin
