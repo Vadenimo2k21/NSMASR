@@ -37,6 +37,9 @@ EU/save_banner/
 HomeButton2/
 Layout/*
 !Layout/controllerInformation
+!Layout/preGame
+!Layout/pauseMenu
+!Layout/MapHUD.arc
 ankou.arc
 backWall.arc
 bakubaku.arc
